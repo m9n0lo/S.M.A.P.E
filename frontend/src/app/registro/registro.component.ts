@@ -6,5 +6,5 @@ import { Component } from '@angular/core';
   styleUrls: ['./registro.component.css']
 })
 export class RegistroComponent {
-
+  title = 'S.M.A.P.E';
 }
